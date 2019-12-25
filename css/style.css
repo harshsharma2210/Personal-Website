@@ -1,0 +1,142 @@
+body {
+  line-height: 2;
+  margin: 0px;
+  text-align: center;
+  color: #40514e;
+}
+h1 {
+  margin-top: 0px;
+  font-size: 5.625rem;
+  font-family: "Kaushan Script", cursive;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+  line-height: 2;
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  font: size 2.5rem;
+  color: #66bfbf;
+  margin-bottom: 20px;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  font: size 2.5rem;
+  color: #11999e;
+}
+
+.topcontainer {
+  background-color: #e4f9f5;
+  position: relative;
+  padding: 100px;
+}
+.middlecontainer {
+}
+.bottom-container {
+  background-color: #66bfbf;
+  color: #11999e;
+  padding: 20px 0px 20px;
+}
+.uppercloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 500px;
+}
+.mountain {
+  margin: 50px auto 30px auto;
+  height: 400px;
+  width: 500px;
+}
+.firstimage {
+  margin-top: 50px;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+}
+
+.comp {
+  height: 150px;
+  width: 200px;
+  margin: 0px 200px 0px auto;
+  float: left;
+}
+.sport {
+  height: 150px;
+  width: 200px;
+
+  float: right;
+}
+
+.apro {
+  font-weight: normal;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  text-align: left;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  background-color: #e4f9f5;
+  color: black;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  border-color: #66bfbf;
+  margin: 70px auto 70px auto;
+}
+
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+  text-shadow:0px 1px 0px #3d768a;
+  margin: 5px auto 50px auto;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+a{
+  color: #11999e;
+  font-family: "Roboto", sans-serif;
+  margin: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+a:hover
+{
+  color: #eaf6f6;
+}
+.copyright
+{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+ 
+}
+        
+  
